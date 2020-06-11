@@ -6,7 +6,7 @@ module Dance
     "Look how high I'm jumping!"
   end
   def pirouette
-    
+    "I'm doing a pirouette"
   end
   def take_a_bow
     
